@@ -1,0 +1,14 @@
+INT MAIN f1()
+BEGIN
+	INT x;
+	INT x;
+	x := 64;
+	REAL y;
+	y := 6;
+	z := 6;
+	IF(x != y)
+	BEGIN
+		y:=x;
+		x:=y;
+	END
+END
